@@ -1,0 +1,15 @@
+{
+    "products":[
+        {"id":1,"productName":"computer","price":6500,"quantity":0},
+        {"id":2,"productName":"mouser","price":450,"quantity":1},
+        {"id":3,"productName":"printer","price":45,"quantity":4},
+        {"id":4,"productName":"cpu","price":6840,"quantity":5},
+        {"id":5,"productName":"server","price":1200000,"quantity":9},
+        {"id":6,"productName":"keyborad","price":65.470,"quantity":4},
+        {"id":7,"productName":"monitor","price":5000,"quantity":8}
+    ],
+    "users":[
+        {"id":1,"email":"simon@gmail.com","password":"1234"},
+        {"id":2,"email":"simon1@gmail.com","password":"1234"}
+    ]
+}
